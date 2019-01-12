@@ -18,10 +18,3 @@ It contains a couple UI and unit tests, they can be ran with the following instr
 <p>4. OK</p>
 <p>5. Make sure MainActivityEspressoTest is selected near the Run button</p>
 <p>6. Run</p>
-
-<h3>Running Robolectric tests</h3>
-<p>1. At the Project tab right click the folder containing the tests (i.e. "calculator.simplemobiletools.com.simple_calculator (test)")</p>
-<p>2. select Run 'Tests in 'calculator.simplemob...' to run all the tests</p>
-<p>3. if you are on Linux or Mac, go to Run -> Edit Configurations, select the new JUnit configuration and change the "Working Directory" item to "$MODULE_DIR$" (without quotes)</p>
-<p>4. OK</p>
-<p>5. Run</p>
